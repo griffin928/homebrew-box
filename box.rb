@@ -1,8 +1,8 @@
 class Box < Formula
   desc "加密文件夹为单个二进制文件的命令行工具"
   homepage "https://github.com/griffin928/kangaroo-bin"
-  url "https://github.com/griffin928/kangaroo-bin/raw/main/releases/kangaroo-1.0.37.tar.gz"
-  sha256 "63792ac5bb41ffe50c5b0c3fb8084770d40471169d40282b92560dc1ca6b9b4d"
+  url "https://github.com/griffin928/kangaroo-bin/raw/main/releases/kangaroo-1.0.38.tar.gz"
+  sha256 "cc240d8d908c6ca20c2771e8ec29d334112166da4c8bb37b5f079ea4db9a84fc"
   license "专有"
   
   def install
